@@ -1,0 +1,57 @@
+*{
+
+	padding: 0;
+}
+body{
+	background: rgb(92, 87, 87);
+}
+#form{
+	width: 50%;
+	background: rgb(179, 177, 177);
+	float: left;
+	padding-left: 5%;
+	padding-top: 10px;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+input[type="text"]{
+	background: #ccc;
+	width: 80%;
+	text-align: center;
+	font-size: 50px;
+	color: aqua;
+
+}
+input[type="reset"]{
+	width: 40%;
+	height: 50px;
+	margin-bottom: 10px;
+	color: #000;
+	font-style: italic;
+	font-weight: bolder;
+
+}
+input[type="submit"]{
+	width: 40%;
+	height: 50px;
+	color:  #000;
+	font-style: italic;
+	font-weight: bolder;
+	margin-bottom: 10px;
+}
+#phpp{
+	float: left;
+	width: 45%;
+	background: rgba(209, 206, 206, 0.541);
+	color: rgba(0, 0, 0, 0.993);
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 5%;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 0;
+	margin-bottom: 10px;
+
+}
